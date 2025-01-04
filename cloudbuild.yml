@@ -22,4 +22,3 @@ availableSecrets:
 options:
   machineType: 'E2_HIGHCPU_8'
   logging: CLOUD_LOGGING_ONLY
-  workerPool: projects/tienda-microservices-446414/locations/us-east4/workerPools/default
