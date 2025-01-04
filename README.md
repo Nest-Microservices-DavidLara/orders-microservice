@@ -11,3 +11,7 @@ docker compose up -d
 3. Crear un archivo `.env` basado en el `env.template`
 4. Levantar la base de datos con `docker compose up -d`
 5. Ejecutar `npm run start:dev`
+
+```
+
+```
